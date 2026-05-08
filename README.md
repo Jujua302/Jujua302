@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**Jujua302/Jujua302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I'm a **Software Engineering student** at the University of Westminster[cite: 33, 68]. [cite_start]I have a background in mechanical and hardware engineering[cite: 11, 72], and I'm currently focused on mastering software development.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack (Learning & Growing)
+- **Languages:** Learning Python & JavaScript
+- [cite_start]**Background:** CAD, Hardware Systems, & Project Coordination [cite: 46, 72]
+- [cite_start]**Languages:** English & Portuguese (Bilingual) [cite: 30, 35, 56]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My "Lock In" Goals for 2026
+- [ ] Complete my first 5 Web Development projects.
+- [ ] Maintain a daily coding streak.
+- [ ] Build a fully functional personal portfolio website.
+
+---
+[cite_start]📫 **Reach me at:** [jujdealmeida@gmail.com](mailto:jujdealmeida@gmail.com) [cite: 3]
